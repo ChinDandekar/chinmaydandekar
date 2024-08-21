@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chinmay Dandekar's Homepage"
+title                    : "Chinmay Dandekar's Personal Page"
 title_separator          : "-"
 name                     : &name "Chinmay Dandekar"
-description              : &description "A rising senior at UC Santa Barbara majoring Computer Science and Mathematics. Actively researching machine and speech translation."
-url                      : https://chinmaydandekar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+description              : &description "Motivated college senior with a strong background in Computer Science and Mathematics, seeking a summer internship in the technology industry to apply my skills and further develop my passion for software engineering."
+url                      : https://chindandekar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/chinmaydandekar" # the subpath of your site, e.g. "/blog"
 repository               : "ChinDandekar/chinmaydandekar.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -21,34 +21,29 @@ repository               : "ChinDandekar/chinmaydandekar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Chinmay Umesh Dandekar"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Motivated college senior with a strong background in Computer Science and Mathematics, seeking a summer internship in the technology industry to apply my skills and further develop my passion for software engineering."
+  location         : "Dublin, California"
+  employer         : "UC Santa Barbara"
+  uri              :  https://chindandekar.github.io/chinmaydandekar
+  email            : "chinmaydan14@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  googlescholar    : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "ChinDandekar"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +52,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "chinmay-dandekar"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -113,7 +108,7 @@ atom_feed:
 
 
 # SEO Related
-google_site_verification :
+google_site_verification : google-site-verification=W9teQjRWrqDpNGAthvzdpiCxtLPqr0ZdEWesAJKWNCM
 bing_site_verification   :
 alexa_site_verification  :
 yandex_site_verification :
