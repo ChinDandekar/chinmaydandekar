@@ -7,22 +7,25 @@
 # server process.
 
 # Basic Site Settings
+theme                    : minimal-mistakes-jekyll
+minimal_mistakes_skin    : "sunrise"
 locale                   : "en-US"
-title                    : "Chinmay Dandekar's Personal Page"
-title_separator          : "-"
+title                    : "Chinmay Dandekar"
+title_separator          : "|"
 name                     : &name "Chinmay Dandekar"
 description              : &description "Motivated college senior with a strong background in Computer Science and Mathematics, seeking a summer internship in the technology industry to apply my skills and further develop my passion for software engineering."
 url                      : https://chindandekar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/chinmaydandekar" # the subpath of your site, e.g. "/blog"
 repository               : "ChinDandekar/chinmaydandekar.github.io"
+search                   : true
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
-  name             : "Chinmay Umesh Dandekar"
+  avatar           : "la_profile.JPG"
+  name             : "Chinmay Dandekar"
   pronouns         : # example: "she/her"  
   bio              : "Motivated college senior with a strong background in Computer Science and Mathematics, seeking a summer internship in the technology industry to apply my skills and further develop my passion for software engineering."
   location         : "Dublin, California"
@@ -222,6 +225,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_date: true
   # _pages
   - scope:
       path: ""
