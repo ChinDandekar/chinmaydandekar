@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 title                    : "Chinmay Dandekar"
-title_separator          : "|"
+title_separator          : "-"
 name                     : &name "Chinmay Dandekar"
 description              : &description "Motivated college senior with a strong background in Computer Science and Mathematics, seeking a summer internship in the technology industry to apply my skills and further develop my passion for software engineering."
 url                      : https://chindandekar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

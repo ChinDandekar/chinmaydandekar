@@ -10,7 +10,7 @@ redirect_from:
 ---
 Hello! I am Chinmay Dandekar, a senior at University of California, Santa Barbara. I am double majoring in Computer Science and Mathematics at the [College of Creative Studies](https://www.ccs.ucsb.edu), an honors college at UC Santa Barbara.
 
-Currently  I am looking for an internship in a software engineer or machine learning engineer role over Summer 2025. I am very experienced with Python, Java and C++. I am proficient in HTML, CSS and Javascript. Check out my [resume](/chinmaydandekar/resume) and some of my [projects and research](/chinmaydandekar/projects). 
+Currently  I am looking for an *internship* in a **software engineer** or **machine learning engineer** role over *Summer 2025*. I am very experienced with **Python**, **Java** and **C++**. I am proficient in HTML, CSS and Javascript. Check out my **[resume](/chinmaydandekar/resume)** and some of my **[projects and research](/chinmaydandekar/projects)**. 
 
 ---
 
