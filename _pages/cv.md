@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Resume"
+title: "Resume Highlights"
 permalink: /resume/
 author_profile: true
 redirect_from:
@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+<br/>
+Check out my full resume in pdf form [here](/chinmaydandekar/files/resume.pdf).
 
 ## Education
 
@@ -32,6 +35,9 @@ redirect_from:
   * _January - June 2024_
   * Supported and helped instruct 100 students in CMPSC 40 - Discrete Mathematics, through teaching and guidance
   * Taught logic, algorithms and proof techniques to both well-sized groups of students and one on one, individually.
+* **Data Science Intern at Compusharp Inc**
+  * _Summer 2020_
+  * Used Python Pandas, Numpy and Matplotlib to do data cleansing, visualization on data about 88,000 wildfires and constructed a basic exponential regression model for electrical-induced wildfire prediction
   
 Skills
 ======

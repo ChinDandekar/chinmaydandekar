@@ -1,13 +1,22 @@
 ---
 title: "Translation Canvas"
-excerpt: "A Python package that helps machine translation model developers analyze and compare their models outputs <br/><br/><img src='/chinmaydandekar/images/translation-canvas/render-workflow.png'>"
+excerpt: "A Python package that helps machine translation model developers analyze and compare their models outputs <br/><br/><img src='/chinmaydandekar/images/translation-canvas/render-workflow.png' style='width: 75%'>"
 collection: portfolio
 ---
 
 [![PyPI version](https://badge.fury.io/py/translation-canvas.svg)](https://badge.fury.io/py/translation-canvas)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## Translation Canvas: An Explainable Interface to Pinpoint and Analyze Translation Systems
+<h2 style="text-align: center; text-style: bold"> Translation Canvas: An Explainable Interface to Pinpoint and Analyze Translation Systems </h2>
+<p style="text-align: center;">
+Chinmay Dandekar‡, Wenda Xu‡, Xi Xu†, Siqi Ouyang†, Lei Li†<br/>
+†Carnegie Mellon University<br/>
+‡University of California, Santa Barbara<br/>
+{xixu, siqiouya, leili}@cs.cmu.edu<br/>
+{cdandekar, wendaxu}@ucsb.edu
+</p>
+
+---
 
 ### Overview:
 
@@ -54,6 +63,8 @@ Translation Canvas prioritizes a clear and informative presentation of data, mak
 
 **Conclusion**:
 Translation Canvas is a crucial tool for the translation research community, offering deep insights and enabling fine-grained analysis of translation model performance. Its user-friendly design, coupled with powerful analytical tools, makes it an invaluable resource for improving machine translation systems.
+
+---
 
 ### Links:
 Check out a demo video for this package: [Demo Submission Video](https://youtu.be/IoK4yAwK1II)\

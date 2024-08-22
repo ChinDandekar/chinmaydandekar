@@ -7,8 +7,6 @@
 # server process.
 
 # Basic Site Settings
-theme                    : minimal-mistakes-jekyll
-minimal_mistakes_skin    : "sunrise"
 locale                   : "en-US"
 title                    : "Chinmay Dandekar"
 title_separator          : "|"
