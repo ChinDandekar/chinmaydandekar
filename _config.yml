@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Chinmay Dandekar"
 title_separator          : "-"
 name                     : &name "Chinmay Dandekar"
-description              : &description "Motivated college senior with a strong background in Computer Science and Mathematics, seeking a summer internship in the technology industry to apply my skills and further develop my passion for software engineering."
+description              : &description "Motivated college senior with a strong background in Computer Science and Mathematics, applying to PhD in Computer Science to research multilingual LLMs."
 url                      : https://chindandekar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/chinmaydandekar" # the subpath of your site, e.g. "/blog"
 repository               : "ChinDandekar/chinmaydandekar.github.io"
@@ -25,10 +25,10 @@ author:
   avatar           : "la_profile.JPG"
   name             : "Chinmay Dandekar"
   pronouns         : # example: "she/her"  
-  bio              : "Motivated college senior with a strong background in Computer Science and Mathematics, seeking a summer internship in the technology industry to apply my skills and further develop my passion for software engineering."
+  bio              : "Motivated college senior with a strong background in Computer Science and Mathematics, applying to PhD in Computer Science to research multilingual LLMs."
   location         : "Dublin, California"
   employer         : "UC Santa Barbara"
-  uri              :  https://chindandekar.github.io/chinmaydandekar
+  uri              :  #
   email            : "chinmaydan14@gmail.com" 
 
   # Academic websites
