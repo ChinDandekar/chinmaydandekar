@@ -64,6 +64,9 @@ Translation Canvas prioritizes a clear and informative presentation of data, mak
 **Conclusion**:
 Translation Canvas is a crucial tool for the translation research community, offering deep insights and enabling fine-grained analysis of translation model performance. Its user-friendly design, coupled with powerful analytical tools, makes it an invaluable resource for improving machine translation systems.
 
+**Publication**:
+This work was published as a system demonstration in Empirical Methods of Natural Language Processing 2024.
+
 ---
 
 ### Links:

@@ -1,6 +1,6 @@
 ---
 title: "FASST"
-excerpt: "Simultaneous speech translation using Llama3 backend <br/><br/><img src='/chinmaydandekar/images/fasst/latency.png' style='width: 75%'>"
+excerpt: "Simultaneous speech translation using Llama2 backend <br/><br/><img src='/chinmaydandekar/images/fasst/latency.png' style='width: 75%'>"
 collection: portfolio
 ---
 

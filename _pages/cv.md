@@ -10,11 +10,10 @@ redirect_from:
 {% include base_path %}
 
 <br/>
-Check out my full resume in pdf form [here](/chinmaydandekar/files/resume.pdf).
+Check out my full resume in pdf form [here](/chinmaydandekar/files/cv.pdf).
 
 ## Education
 
-* _M.S. in Computer Science_, **University of California, Santa Barbara**, 2026
 * _B.S. in Computer Science_, **University of California, Santa Barbara**, 2025
 * _B.S. in Mathematics_, **University of California, Santa Barbara**, 2025
 
@@ -29,7 +28,7 @@ Check out my full resume in pdf form [here](/chinmaydandekar/files/resume.pdf).
   * _January - August 2024_
   * Research Assistant in CMU Professor Lei Li's Lab.
   * Worked on FASST, a novel method for Simultaneous Speech Translation using a Llama2 decoder.
-  * Wrote Translation Canvas, a Python Flask system that helps model developers compare and analyze translation model outputs.
+  * Wrote Translation Canvas, a Python Flask system that helps model developers compare and analyze translation model outputs. Published as a system demonstration in *Empirical Methods of Natural Language Processing 2024*.
 
 * **Undergraduate Teaching Assistant @ UC Santa Barbara**
   * _January - June 2024_
